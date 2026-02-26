@@ -42,12 +42,12 @@ Desarrollador Full Stack con experiencia en proyectos empresariales reales, lide
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,php,java,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,php,java,prisma" />
 </p>
 
 ### Bases de Datos
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlserver,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,mssql,mongodb,sqlite" />
 </p>
 
 ### Herramientas & DevOps
@@ -206,12 +206,12 @@ Práctica profesional trabajando en tres proyectos empresariales activos de form
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesnerMM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JesnerMM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesnerMM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesnerMM&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=JesnerMM&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
