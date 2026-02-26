@@ -37,7 +37,8 @@ Desarrollador Full Stack con experiencia en proyectos empresariales reales, lide
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,ts,js,html,css,tailwind,ionic,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,ts,js,html,css,tailwind,flutter" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
 </p>
 
 ### Backend
@@ -47,7 +48,8 @@ Desarrollador Full Stack con experiencia en proyectos empresariales reales, lide
 
 ### Bases de Datos
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mssql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ### Herramientas & DevOps
@@ -202,23 +204,6 @@ Práctica profesional trabajando en tres proyectos empresariales activos de form
 | **Blandas** | Liderazgo, comunicación efectiva, trabajo colaborativo, resolución de problemas |
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesnerMM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesnerMM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JesnerMM&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<div align="center">
-
-*"El código que no está en producción no tiene valor."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=120&section=footer" width="100%" />
 
