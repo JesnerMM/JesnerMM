@@ -25,7 +25,7 @@
 ```text
 📍 Juan Viñas, Cartago, Costa Rica
 🎓 Bachillerato en Informática Empresarial — Universidad de Costa Rica (2021–2025)
-💼 Full Stack Developer en CyberPro CR (Práctica Profesional — 2025)
+💼 Full Stack Developer en CyberPro CR
 📞 +506 8752-1680  |  ✉️ eliecermelgara1680@gmail.com
 ```
 
@@ -61,7 +61,7 @@ Desarrollador Full Stack con experiencia en proyectos empresariales reales, lide
 
 ## 💼 Experiencia Profesional
 
-### Full Stack Developer — CyberPro CR *(Ago 2025 – Feb 2026)*
+### Full Stack Developer — CyberPro CR *(Ene 2025 – Feb 2026)*
 
 Práctica profesional trabajando en tres proyectos empresariales activos de forma simultánea, asumiendo responsabilidades full-stack en backend, frontend web y desarrollo móvil con Flutter.
 
