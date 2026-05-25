@@ -48,7 +48,7 @@ Desarrollador Full Stack con experiencia en proyectos empresariales reales, lide
 
 ### Bases de Datos
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
