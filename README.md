@@ -197,7 +197,7 @@ Práctica profesional trabajando en tres proyectos empresariales activos de form
 |------|------------|
 | **Frontend** | React, Next.js, Angular, Vue 3, TypeScript, TailwindCSS, Ionic, Flutter |
 | **Backend** | Node.js/Express, .NET 8 (C#), PHP, Java |
-| **Bases de Datos** | MySQL, SQL Server, MongoDB, SQLite |
+| **Bases de Datos** | MySQL, SQL Server, PostgreSQL, MongoDB, SQLite |
 | **Arquitectura** | Clean Architecture, DDD, SOLID, REST APIs |
 | **Prácticas** | JWT/RSA, RBAC, SCRUM, RUP, Git Flow |
 | **Herramientas** | Docker, AWS S3, Firebase, Prisma, Entity Framework |
